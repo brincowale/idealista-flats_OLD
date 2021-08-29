@@ -1,0 +1,27 @@
+{
+  "idealista": {
+    "client_id": "REPLACE",
+    "client_secret": "REPLACE"
+  },
+  "telegram": {
+    "api_key": "REPLACE",
+    "channel_id": "REPLACE"
+  },
+  "search": "maxItems=40&locationName=Barcelona&locationId=0-EU-ES-08-13-001-019&sort=desc&sinceDate=T&numPage=1%2C1&minPrice=600.0&propertyType=homes&minSize=40.0&maxSize=80.0&maxPrice=1200.0&operation=rent&floorHeights=intermediateFloor%2CtopFloor&bedrooms=1%2C2",
+  "filters": {
+    "not_valid_sentences": [
+    ],
+    "minimum_pictures": 5,
+    "maximum_rooms": 30,
+    "show_only_agencies": true,
+    "not_valid_neighborhoods": [
+      "raval",
+      "clot",
+      "salut"
+    ],
+    "not_valid_floors": [
+    ],
+    "not_valid_agencies": [
+    ]
+  }
+}
